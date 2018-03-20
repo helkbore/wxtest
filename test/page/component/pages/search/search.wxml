@@ -1,0 +1,15 @@
+<view class="container">
+  <text class="name">查词</text>
+
+  <view class="input-container">
+    <input class="input-search" bindconfirm="search" placeholder="请输入您要查询的单词" bindinput='word' bindblur='word' bindconfirm='word' />
+  </view>
+
+  <view class="button-search" bindtap="search">
+    <text class="text-search">查询</text>
+  </view>
+
+  <view class="button-info" bindtap="help">
+    <text class="text-search">查词功能说明</text>
+  </view>
+</view>

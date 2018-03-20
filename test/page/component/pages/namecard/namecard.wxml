@@ -1,0 +1,7 @@
+<view>{{name}}</view>
+<view>{{guanjianci}}</view>
+<view>{{logo}}</view>
+<view>{{yewu}}</view>
+<view>{{tel}}</view>
+<view>{{location}}</view>
+<view>{{img}}</view>
